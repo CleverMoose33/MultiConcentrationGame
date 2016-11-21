@@ -1,0 +1,13 @@
+READ ME!
+
+Class Name			Type (GUI  |  MAIN  |  App. Logic / Data)	Lines of Code
+----------			-----------------------------------------	-------------
+CLI				User Interface Class				151
+CLILogic			Logic Class					123
+GUI				GUI class					242
+GUILogic			Logic Class					79
+Logic				Logic Class					96
+MultiConcentration		Main method for application			64
+MultiConcentrationTester	Tester Main method and Class test functions	362
+Tile				Data class					24
+TileButton			Data class					21
